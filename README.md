@@ -1,5 +1,5 @@
 # Index
-1. Beginner_01_PythonOverview.ipynb [https://colab.research.google.com/drive/1IoRIsD4fGGXaocq3QxUENbkqSj2CkqWr]
+1. Beginner_01_PythonOverview.ipynb
 2. Beginner_02_Input Output & Data Types.ipynb
 3. Beginner_03_Control Structure (Loops).ipynb
 4. Beginner_04_Functions.ipynb
